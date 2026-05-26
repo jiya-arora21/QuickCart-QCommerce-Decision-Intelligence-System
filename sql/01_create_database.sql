@@ -1,0 +1,1 @@
+-- Create database for QuickCart decision intelligence project
