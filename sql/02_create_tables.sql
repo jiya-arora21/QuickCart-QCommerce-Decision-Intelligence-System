@@ -1,0 +1,1 @@
+-- Create fact and dimension tables for quick-commerce analysis
