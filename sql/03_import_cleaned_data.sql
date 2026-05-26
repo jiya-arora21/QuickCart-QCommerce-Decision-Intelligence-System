@@ -1,0 +1,1 @@
+-- Import cleaned quick-commerce data into MySQL tables
